@@ -1,0 +1,145 @@
+@charset "utf-8";
+/*--
+	Add your style here
+--*/
+body{
+    font-family: 'Visby CF', sans-serif;
+}
+
+p {
+    font-size: 14px;
+}
+
+.quantity {
+    text-align: left;
+}
+
+.quantity .btn {
+    margin-left: 0;
+}
+
+.nav-holder nav li ul {
+    min-width: 245px;
+}
+
+.product-cats {
+    font-size:13px;
+    font-weight:600;
+    color:#C1BFC0;
+}
+
+.products {
+    margin-bottom: 50px;
+}
+
+.logo-holder img {
+    height: 80px;
+}
+
+.logo-holder {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    margin-left: -60px;
+    width: 120px;
+    height: 75px;
+    padding-top: 0;
+}
+
+.thumb-info h3, .thumb-info p {
+    text-transform: uppercase;
+}
+
+.contact-details ul li span {
+    font-family: 'Visby CF', sans-serif;
+}
+
+.bg-bottom {
+    background-position: bottom;
+}
+
+.hidden-mobile {
+    display: none;
+}
+
+.language-switch {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+#map-canvas {
+    height: 100%;
+}
+
+/*.fix-pr-det {
+    width: 500px;
+    top: 50px;
+    bottom: 50px;
+    padding: 100px 50px 30px;
+}*/
+
+.fix-pr-det p strong {
+    font-weight:bold;
+}
+
+.contact-special {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 1284px) {
+    .header-contacts {
+        display: block;
+        margin-right: 0;
+        padding-top: 25px;
+    }
+    .hidden-tablet {
+        display: none;
+    }
+}
+@media only screen and  (max-width: 540px) {
+    .column-wrap {
+        padding: 20px;
+    }
+    .inline-facts .num {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+    header.main-header {
+        height: 80px;
+    }
+    .logo-holder, .logo-holder img {
+        height: 60px;
+    }
+    .nav-button-wrap {
+        height: 50px;
+        width: 50px;
+    }
+    .sidebar-button-wrap {
+        top: 30px;
+    }
+    #wrapper {
+        padding-top: 80px;
+    }
+    .hiiden-sidebar-wrap {
+        top: 80px;
+    }
+    .nav-holder {
+        top: 70px;
+    }
+    .nav-holder {
+        height: 220px;
+    }
+    .big-pad-sec {
+        margin-top: 0;
+    }
+    .center-carousel .sw-button.swiper-button-next, .fs-gallery-wrap .sw-button.swiper-button-next, .portfolio-wrap .sw-button.swiper-button-next {
+        right: 20px;
+    }
+    .center-carousel .sw-button.swiper-button-prev, .fs-gallery-wrap .sw-button.swiper-button-prev, .portfolio-wrap .sw-button.swiper-button-prev {
+        left: 20px;
+    }
+    .main-header {
+        padding: 0 12px;
+    }
+}

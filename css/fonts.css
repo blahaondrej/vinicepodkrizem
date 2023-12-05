@@ -1,0 +1,192 @@
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-ThinOblique.eot');
+    src: url('../fonts/VisbyCF-ThinOblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-ThinOblique.woff2') format('woff2'),
+        url('../fonts/VisbyCF-ThinOblique.woff') format('woff'),
+        url('../fonts/VisbyCF-ThinOblique.ttf') format('truetype'),
+        url('../fonts/VisbyCF-ThinOblique.svg#VisbyCF-ThinOblique') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-HeavyOblique.eot');
+    src: url('../fonts/VisbyCF-HeavyOblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-HeavyOblique.woff2') format('woff2'),
+        url('../fonts/VisbyCF-HeavyOblique.woff') format('woff'),
+        url('../fonts/VisbyCF-HeavyOblique.ttf') format('truetype'),
+        url('../fonts/VisbyCF-HeavyOblique.svg#VisbyCF-HeavyOblique') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-RegularOblique.eot');
+    src: url('../fonts/VisbyCF-RegularOblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-RegularOblique.woff2') format('woff2'),
+        url('../fonts/VisbyCF-RegularOblique.woff') format('woff'),
+        url('../fonts/VisbyCF-RegularOblique.ttf') format('truetype'),
+        url('../fonts/VisbyCF-RegularOblique.svg#VisbyCF-RegularOblique') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Visby CF Demi';
+    src: url('../fonts/VisbyCF-DemiBoldOblique.eot');
+    src: url('../fonts/VisbyCF-DemiBoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-DemiBoldOblique.woff2') format('woff2'),
+        url('../fonts/VisbyCF-DemiBoldOblique.woff') format('woff'),
+        url('../fonts/VisbyCF-DemiBoldOblique.ttf') format('truetype'),
+        url('../fonts/VisbyCF-DemiBoldOblique.svg#VisbyCF-DemiBoldOblique') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-Bold.eot');
+    src: url('../fonts/VisbyCF-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-Bold.woff2') format('woff2'),
+        url('../fonts/VisbyCF-Bold.woff') format('woff'),
+        url('../fonts/VisbyCF-Bold.ttf') format('truetype'),
+        url('../fonts/VisbyCF-Bold.svg#VisbyCF-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Visby CF Extra';
+    src: url('../fonts/VisbyCF-ExtraBold.eot');
+    src: url('../fonts/VisbyCF-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-ExtraBold.woff2') format('woff2'),
+        url('../fonts/VisbyCF-ExtraBold.woff') format('woff'),
+        url('../fonts/VisbyCF-ExtraBold.ttf') format('truetype'),
+        url('../fonts/VisbyCF-ExtraBold.svg#VisbyCF-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-Thin.eot');
+    src: url('../fonts/VisbyCF-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-Thin.woff2') format('woff2'),
+        url('../fonts/VisbyCF-Thin.woff') format('woff'),
+        url('../fonts/VisbyCF-Thin.ttf') format('truetype'),
+        url('../fonts/VisbyCF-Thin.svg#VisbyCF-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-Regular.eot');
+    src: url('../fonts/VisbyCF-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-Regular.woff2') format('woff2'),
+        url('../fonts/VisbyCF-Regular.woff') format('woff'),
+        url('../fonts/VisbyCF-Regular.ttf') format('truetype'),
+        url('../fonts/VisbyCF-Regular.svg#VisbyCF-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-MediumOblique.eot');
+    src: url('../fonts/VisbyCF-MediumOblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-MediumOblique.woff2') format('woff2'),
+        url('../fonts/VisbyCF-MediumOblique.woff') format('woff'),
+        url('../fonts/VisbyCF-MediumOblique.ttf') format('truetype'),
+        url('../fonts/VisbyCF-MediumOblique.svg#VisbyCF-MediumOblique') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-BoldOblique.eot');
+    src: url('../fonts/VisbyCF-BoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-BoldOblique.woff2') format('woff2'),
+        url('../fonts/VisbyCF-BoldOblique.woff') format('woff'),
+        url('../fonts/VisbyCF-BoldOblique.ttf') format('truetype'),
+        url('../fonts/VisbyCF-BoldOblique.svg#VisbyCF-BoldOblique') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-Medium.eot');
+    src: url('../fonts/VisbyCF-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-Medium.woff2') format('woff2'),
+        url('../fonts/VisbyCF-Medium.woff') format('woff'),
+        url('../fonts/VisbyCF-Medium.ttf') format('truetype'),
+        url('../fonts/VisbyCF-Medium.svg#VisbyCF-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Visby CF Demi';
+    src: url('../fonts/VisbyCF-DemiBold.eot');
+    src: url('../fonts/VisbyCF-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-DemiBold.woff2') format('woff2'),
+        url('../fonts/VisbyCF-DemiBold.woff') format('woff'),
+        url('../fonts/VisbyCF-DemiBold.ttf') format('truetype'),
+        url('../fonts/VisbyCF-DemiBold.svg#VisbyCF-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-Light.eot');
+    src: url('../fonts/VisbyCF-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-Light.woff2') format('woff2'),
+        url('../fonts/VisbyCF-Light.woff') format('woff'),
+        url('../fonts/VisbyCF-Light.ttf') format('truetype'),
+        url('../fonts/VisbyCF-Light.svg#VisbyCF-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-Heavy.eot');
+    src: url('../fonts/VisbyCF-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-Heavy.woff2') format('woff2'),
+        url('../fonts/VisbyCF-Heavy.woff') format('woff'),
+        url('../fonts/VisbyCF-Heavy.ttf') format('truetype'),
+        url('../fonts/VisbyCF-Heavy.svg#VisbyCF-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Visby CF Extra';
+    src: url('../fonts/VisbyCF-ExtraBoldOblique.eot');
+    src: url('../fonts/VisbyCF-ExtraBoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-ExtraBoldOblique.woff2') format('woff2'),
+        url('../fonts/VisbyCF-ExtraBoldOblique.woff') format('woff'),
+        url('../fonts/VisbyCF-ExtraBoldOblique.ttf') format('truetype'),
+        url('../fonts/VisbyCF-ExtraBoldOblique.svg#VisbyCF-ExtraBoldOblique') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Visby CF';
+    src: url('../fonts/VisbyCF-LightOblique.eot');
+    src: url('../fonts/VisbyCF-LightOblique.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/VisbyCF-LightOblique.woff2') format('woff2'),
+        url('../fonts/VisbyCF-LightOblique.woff') format('woff'),
+        url('../fonts/VisbyCF-LightOblique.ttf') format('truetype'),
+        url('../fonts/VisbyCF-LightOblique.svg#VisbyCF-LightOblique') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
